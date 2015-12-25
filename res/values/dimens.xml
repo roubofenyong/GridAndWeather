@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="size25dp">25dp</dimen>
+    <dimen name="size19dp">19dp</dimen>
+
+</resources>
